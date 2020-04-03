@@ -1,0 +1,15 @@
+h2 {
+      color: darkblue;
+  }
+
+body {
+    background-color: whitesmoke;
+}
+
+.content {
+    padding: 30px 50px 50px 50px;
+}
+
+article:first-child {
+    font-style: italic;
+}
